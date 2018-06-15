@@ -1,0 +1,1 @@
+SolveMaze.exe <MAPA1.txt >SaidaMAPA1.txt
